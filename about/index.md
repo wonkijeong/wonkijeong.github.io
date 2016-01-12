@@ -1,6 +1,7 @@
 ---
 layout: page
-title: About
+title: Wonki Jeong
 ---
 
-Nothing yet :(
+__NHN Entertainment Corp.__ <br>
+루키행복TF 3조
